@@ -23,7 +23,7 @@
   
 - I'll glad to make new contacts and communications! 🤝
 
-Text me on my 📧e-mail ilya.tyurin@hotmail.com or 📲TG: @valtesar.
+Text me on my 📧e-mail ilya.tyurin@hotmail.com or 📲TG: @valtesar
 <!---
 Valtesar/Valtesar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
