@@ -5,21 +5,21 @@
 
 - My next goals:
 
-  Python (basic) ✅
+  ◻ Python (basic) ✅
   
-  SQL (basic) ✅
+  ◻ SQL (basic) ✅
   
-  Linux 🔍
+  ◻ Linux 🔍
   
-  Django 🔍
+  ◻ Django 🔍
   
-  FastAPI
+  ◻ FastAPI
   
-  Asyncio
+  ◻ Asyncio
   
-  Python (advanced)
+  ◻ Python (advanced)
   
-  Docker
+  ◻ Docker
   
 - I'll glad to make new contacts and communications! 🤝
 
