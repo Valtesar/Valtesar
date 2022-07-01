@@ -15,11 +15,17 @@
   
   ◻ FastAPI
   
-  ◻ Asyncio
+  ◻ Asyncio ✅
   
   ◻ Python (advanced)
   
   ◻ Docker
+  
+  ◻ Playwright + C# (basic) ✅
+  
+  ◻ Selenium + Python (basic) ✅
+  
+  ◻ Postman ✅
   
 - I'll glad to make new contacts and communications! 🤝
 
