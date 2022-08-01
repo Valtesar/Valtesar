@@ -1,4 +1,6 @@
-- Hello everyone 👋 I'm Ilya, junior coder🎯. 
+<h1 align="center">Ｈｅｌｌｏ ｅｖｅｒｙｏｎｅ 👋
+
+Ｉ'ｍ Ｉｌｙａ， ｓｏｆｔｗａｒｅ ｄｅｖｅｌｏｐｅｒ 🎯</h1> 
 - Education ⛔ shouldn't stop at college, and ⛔ shouldn't be restricted to institutions.
 - That's why I never stop learning📘. 
 - Now I keep on python and software development algorithms🧾.  
