@@ -39,7 +39,7 @@ ___
 ___
 
 <div style="display: flex; flex-direction: row;">
- <img width="1000" height="200" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Valtesar&theme=github_dark"/> 
+ <img width="1000" height="300" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Valtesar&theme=github_dark"/> 
 </div>
 
 <div style="display: flex; flex-direction: row;">
@@ -48,7 +48,7 @@ ___
 </div>
 
 <div style="display: flex; flex-direction: row;">
-<img width="1000" height="200" class="img" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Valtesar&theme=github_dark" />
+<img width="1000" height="300" class="img" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Valtesar&theme=github_dark" />
 </div>
 
 <h3>💎 𝐎𝐭𝐡𝐞𝐫 𝐬𝐭𝐚𝐭𝐬:</h3>
