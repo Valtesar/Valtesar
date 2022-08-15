@@ -43,8 +43,8 @@ ___
 </div>
 
 <div style="display: flex; flex-direction: row;">
- <img width="400" height="200" class="img" src="https://github-readme-streak-stats.herokuapp.com?user=Valtesar&theme=dark&date_format=j%20M%5B%20Y%5D)"/>   
- <img width="400" height="200" class="img" src="https://github-readme-stats.vercel.app/api?username=valtesar&show_icons=true&theme=highcontrast"/> 
+ <img width="400" height="250" class="img" src="https://github-readme-streak-stats.herokuapp.com?user=Valtesar&theme=dark&date_format=j%20M%5B%20Y%5D)"/>     
+ <img width="400" height="250" class="img" src="https://github-readme-stats.vercel.app/api?username=valtesar&show_icons=true&theme=highcontrast"/> 
 </div>
 
 <div style="display: flex; flex-direction: row;">
