@@ -38,13 +38,19 @@ ___
 
 ___
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Valtesar&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats) ![Valtesar's GitHub stats](https://github-readme-stats.vercel.app/api?username=valtesar&show_icons=true&theme=highcontrast)
-
 <div style="display: flex; flex-direction: row;">
- <img width="1000" height="300" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Valtesar&theme=github_dark" /> 
+ <img width="1000" height="300" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Valtesar&theme=github_dark"/> 
 </div>
 
-<div style="display: flex; flex-direction: center;">
+<div style="display: flex; flex-direction: row;">
+ <img width="1000" height="300" class="img" src="https://github-readme-streak-stats.herokuapp.com?user=Valtesar&theme=dark&date_format=j%20M%5B%20Y%5D)"/> 
+</div>
+
+<div style="display: flex; flex-direction: row;">
+ <img width="1000" height="300" class="img" src="https://github-readme-stats.vercel.app/api?username=valtesar&show_icons=true&theme=highcontrast"/> 
+</div>
+
+<div style="display: flex; flex-direction: row;">
 <img width="1000" height="300" class="img" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Valtesar&theme=github_dark" />
 </div>
 
